@@ -46,4 +46,4 @@ ani.height = 800 )
     ## Output at: movie_name.gif
 
     ## [1] TRUE
-![](lab-02-animations-aalfaroa/gifs/movie_name.gif)
+![](gifs/movie_name.gif)
