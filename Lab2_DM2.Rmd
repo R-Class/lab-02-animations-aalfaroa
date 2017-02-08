@@ -20,4 +20,6 @@ movie.name = "movie_name.gif",
 interval = 0.3,                 
 ani.width = 800,  
 ani.height = 800 )
+
+![](lab-02-animations-aalfaroa/gifs/movie_name.gif)
 ```
